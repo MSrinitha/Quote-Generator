@@ -1,11 +1,11 @@
-# Bhagavad Gita Random Quote Generator
+# GitaSpeak
 This is a simple web application that generates random quotes from the Bhagavad Gita, one of the most important and revered texts in Hindu philosophy. The application is built using HTML, CSS, and JavaScript.
 
 # View Project
-You can view the Bhagavad Gita Random Quote Generator live by following this link: [Bhagavad Gita Random Quote Generator](https://msrinitha.github.io/Quote-Generator/)
+You can view the GitaSpeak live by following this link: [GitaSpeak](https://msrinitha.github.io/Quote-Generator/)
 
 ## Usage
-To use the Bhagavad Gita random quote generator, follow these steps:
+To use the Sacred Quotations, follow these steps:
 
 1. Clone or download the repository to your local machine.
 2. Open the index.html file in your web browser.
@@ -29,4 +29,4 @@ If you want to customize the application, you can modify the following parts:
 The Bhagavad Gita quotes used in this application are sourced from the ancient text itself, which holds significant importance in Hindu philosophy.
 
 ## Conclusion
-The Bhagavad Gita random quote generator provides a simple way to explore and reflect upon the profound teachings of the Bhagavad Gita. Generating random quotes, it offers glimpses of wisdom and guidance that can inspire and enlighten.
+The GitaSpeak generates quotes that provide a simple way to explore and reflect upon the profound teachings of the Bhagavad Gita. Generating random quotes offers glimpses of wisdom and guidance that can inspire and enlighten.
