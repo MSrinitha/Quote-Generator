@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    background-size: cover;
+    color: white;
+    font-family: cursive;
+    background-color: rgb(183, 209, 233);
+    }
+    #quote-box {
+        position: absolute;
+        top: 14%;
+        left: 10%;
+        right: 10%;
+        width: 80%;
+        line-height: .3;
+    }
+    .quote {
+        font-size: 4rem;
+        font-weight: 400;
+        line-height: 1.1;
+        position: relative;
+        margin: 0;
+    } 
+   
+    .source {
+        font-size: 1.5rem;
+        letter-spacing: 0.05em;
+        line-height: 1.1;
+        text-align: right;
+        margin-right: 4em;
+    }
+    .source:before {
+        content: "—";
+    }
+    
+    #loadQuote {
+        font-size: 1.0rem;;
+        position: fixed;
+        width: 7em;
+        display: inline-block;
+        left: 50%;
+        margin-left: -6em;
+        bottom: 30px;
+        border-radius: 3px;
+        color: hwb(0 95% 5%);
+        background-color: rgba(95, 10, 60, 0.856);
+        padding: 15px 0;
+        transition: .10s ;
+        cursor: pointer;
+    } 
+    #loadQuote:hover {
+        background-color: rgba(219, 126, 196, 0.25);
+      }
+    #loadQuote:focus {
+        outline: none;
+    }
